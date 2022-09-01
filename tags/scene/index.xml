@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Justin Lee</title>
+    <link>https://justindavin.github.io/Justin-Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Justin Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Nov 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://justindavin.github.io/Justin-Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Kaggle Data Science Survey Competition</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-4/</link>
+      <pubDate>Fri, 12 Nov 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-4/</guid>
+      <description>In 2020, Kaggle has set out to conduct an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live for 3.5 weeks in October, and after cleaning the data we finished with 20,036 responses!
+The results include raw numbers about who is working with data, what’s happening with machine learning in different industries, and the best ways for new data scientists to break into the field.</description>
+    </item>
+    
+  </channel>
+</rss>
