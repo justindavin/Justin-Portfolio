@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Justin Lee</title>
+    <link>https://justindavin.github.io/Justin-Portfolio/post/</link>
+    <description>Recent content in Projects on Justin Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://justindavin.github.io/Justin-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 7: SQL Nashville Housing Data Cleaning Project</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-7/</link>
+      <pubDate>Tue, 04 Oct 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-7/</guid>
+      <description>This project was focused on using more advanced SQL queries to clean the Nashville Housing Dataset.
+The dataset is retrieved from Kaggle at: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data Some more advanced SQL queries I have written included: Joins Substrings Character Index Parse Name Common Table Expressions (CTE) The main goal of this project was to perform queries to try and clean the dataset only using SQL. Although some techniques written here are not recommended to perform on SQL, I have done so to showcase some of my abilities.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: SQL COVID-19 Project</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-6/</link>
+      <pubDate>Thu, 22 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-6/</guid>
+      <description>This project was focused on using SQL and Tableau. The data provided are based on reports and not estimates of excess deaths, and while this underestimates the total impact of the pandemic on mortallity globally. We can still get a better understanding of the impacts of COVID-19.
+The dataset is retrieved from Our World In Data at: https://ourworldindata.org/covid-deaths I have split this dataset into two, where one focuses on the covid deaths, and the other dataset focuses on the covid cases The main goal of this project was to perform queries to try and get a deeper understanding of the dataset and how much COVID-19 has affected everyone and showcase my findings on tableau.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Stroke Prediction Project</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-5/</link>
+      <pubDate>Wed, 20 Jul 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-5/</guid>
+      <description>According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
+The dataset is retrieved from kaggle at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset The goal of this project is to predict whether or not a patient is having a stroke based on the input parameters such as gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Python for Data Science and Machine Learning Bootcamp</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-2/</link>
+      <pubDate>Mon, 09 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-2/</guid>
+      <description>Enrolled in a course taught by Jose Portilla where it teaches a vast number of topics related to Data Science. Organized and set daily goals for myself to accomplish while completing projects and University classes on the side. Topics include basic libraries such as Pandas, NumPy, Matplotlib, as well as machine learning libraries such as Scikit-learn and TensorFlow while having projects for every specific topic within each library. Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Kaggle Data Science Survey Competition</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-4/</link>
+      <pubDate>Fri, 12 Nov 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-4/</guid>
+      <description>In 2020, Kaggle has set out to conduct an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live for 3.5 weeks in October, and after cleaning the data we finished with 20,036 responses!
+The results include raw numbers about who is working with data, what’s happening with machine learning in different industries, and the best ways for new data scientists to break into the field.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Stock News Sentiment Analysis</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-3/</link>
+      <pubDate>Wed, 20 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-3/</guid>
+      <description>This project is designed to scrape all articles on Yahoo! Finance based on the inputted stocks and provides a Sentiment Analysis using the Transformers library.
+Created using Hugging Face PEGASUS Financial Summarization and Tokenizer for Sentiment analysis and uses BeautifulSoup4 to scrape web pages in an easy-to-use manner, while also allowing cases of unit testing. The default stocks analyzed in this application are: Apple (APPL) Tesla (TSLA) Amazon (AMZN) Nvidia (NVDA) To modify the Stocks analyzed: Proceed to step 4 of the project Edit the monitored tickers list by adding any stock symbol encased by (monitored_tickers = [&amp;lsquo;AAPL&amp;rsquo;, &amp;lsquo;TSLA&amp;rsquo;, &amp;lsquo;AMZN&amp;rsquo;, &amp;lsquo;NVDA&amp;rsquo;]) Run the application from top to bottom.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Titanic Machine Learning from Disaster Project</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-1/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-1/</guid>
+      <description>On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+This Machine Learning competition was the first project that I have created to familiarize myself with both the Kaggle platform as well as the basics of Machine Learning. The data given in this competition was: A training set A testing set A sample submission file The competition is simple: Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.</description>
+    </item>
+    
+  </channel>
+</rss>
