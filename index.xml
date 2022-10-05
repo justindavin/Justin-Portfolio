@@ -6,7 +6,27 @@
     <description>Recent content in Data Science Portfolio on Justin Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jul 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://justindavin.github.io/Justin-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://justindavin.github.io/Justin-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 7: SQL Nashville Housing Data Cleaning Project</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-7/</link>
+      <pubDate>Tue, 04 Oct 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-7/</guid>
+      <description>This project was focused on using more advanced SQL queries to clean the Nashville Housing Dataset.
+The dataset is retrieved from Kaggle at: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data Some more advanced SQL queries I have written included: Joins Substrings Character Index Parse Name Common Table Expressions (CTE) The main goal of this project was to perform queries to try and clean the dataset only using SQL. Although some techniques written here are not recommended to perform on SQL, I have done so to showcase some of my abilities.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: SQL COVID-19 Project</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-6/</link>
+      <pubDate>Thu, 22 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-6/</guid>
+      <description>This project was focused on using SQL and Tableau. The data provided are based on reports and not estimates of excess deaths, and while this underestimates the total impact of the pandemic on mortallity globally. We can still get a better understanding of the impacts of COVID-19.
+The dataset is retrieved from Our World In Data at: https://ourworldindata.org/covid-deaths I have split this dataset into two, where one focuses on the covid deaths, and the other dataset focuses on the covid cases The main goal of this project was to perform queries to try and get a deeper understanding of the dataset and how much COVID-19 has affected everyone and showcase my findings on tableau.</description>
+    </item>
+    
     <item>
       <title>Project 5: Stroke Prediction Project</title>
       <link>https://justindavin.github.io/Justin-Portfolio/post/project-5/</link>
@@ -27,16 +47,6 @@ The dataset is retrieved from kaggle at: https://www.kaggle.com/datasets/fedesor
     </item>
     
     <item>
-      <title>Project 3: Stock News Sentiment Analysis</title>
-      <link>https://justindavin.github.io/Justin-Portfolio/post/project-3/</link>
-      <pubDate>Fri, 26 Nov 2021 11:13:32 -0400</pubDate>
-      
-      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-3/</guid>
-      <description>This project is designed to scrape all articles on Yahoo! Finance based on the inputted stocks and provides a Sentiment Analysis using the Transformers library.
-Created using Hugging Face PEGASUS Financial Summarization and Tokenizer for Sentiment analysis and uses BeautifulSoup4 to scrape web pages in an easy-to-use manner, while also allowing cases of unit testing. The default stocks analyzed in this application are: Apple (APPL) Tesla (TSLA) Amazon (AMZN) Nvidia (NVDA) To modify the Stocks analyzed: Proceed to step 4 of the project Edit the monitored tickers list by adding any stock symbol encased by (monitored_tickers = [&amp;lsquo;AAPL&amp;rsquo;, &amp;lsquo;TSLA&amp;rsquo;, &amp;lsquo;AMZN&amp;rsquo;, &amp;lsquo;NVDA&amp;rsquo;]) Run the application from top to bottom.</description>
-    </item>
-    
-    <item>
       <title>Project 4: Kaggle Data Science Survey Competition</title>
       <link>https://justindavin.github.io/Justin-Portfolio/post/project-4/</link>
       <pubDate>Fri, 12 Nov 2021 11:14:48 -0400</pubDate>
@@ -44,6 +54,16 @@ Created using Hugging Face PEGASUS Financial Summarization and Tokenizer for Sen
       <guid>https://justindavin.github.io/Justin-Portfolio/post/project-4/</guid>
       <description>In 2020, Kaggle has set out to conduct an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live for 3.5 weeks in October, and after cleaning the data we finished with 20,036 responses!
 The results include raw numbers about who is working with data, what’s happening with machine learning in different industries, and the best ways for new data scientists to break into the field.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Stock News Sentiment Analysis</title>
+      <link>https://justindavin.github.io/Justin-Portfolio/post/project-3/</link>
+      <pubDate>Wed, 20 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://justindavin.github.io/Justin-Portfolio/post/project-3/</guid>
+      <description>This project is designed to scrape all articles on Yahoo! Finance based on the inputted stocks and provides a Sentiment Analysis using the Transformers library.
+Created using Hugging Face PEGASUS Financial Summarization and Tokenizer for Sentiment analysis and uses BeautifulSoup4 to scrape web pages in an easy-to-use manner, while also allowing cases of unit testing. The default stocks analyzed in this application are: Apple (APPL) Tesla (TSLA) Amazon (AMZN) Nvidia (NVDA) To modify the Stocks analyzed: Proceed to step 4 of the project Edit the monitored tickers list by adding any stock symbol encased by (monitored_tickers = [&amp;lsquo;AAPL&amp;rsquo;, &amp;lsquo;TSLA&amp;rsquo;, &amp;lsquo;AMZN&amp;rsquo;, &amp;lsquo;NVDA&amp;rsquo;]) Run the application from top to bottom.</description>
     </item>
     
     <item>

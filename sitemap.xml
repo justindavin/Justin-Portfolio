@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://justindavin.github.io/Justin-Portfolio/</loc>
-    <lastmod>2022-07-20T11:15:58-04:00</lastmod>
+    <lastmod>2022-10-04T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://justindavin.github.io/Justin-Portfolio/post/project-7/</loc>
+    <lastmod>2022-10-04T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://justindavin.github.io/Justin-Portfolio/post/project-6/</loc>
+    <lastmod>2022-09-22T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -17,23 +27,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://justindavin.github.io/Justin-Portfolio/post/project-3/</loc>
-    <lastmod>2021-11-26T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://justindavin.github.io/Justin-Portfolio/post/project-4/</loc>
     <lastmod>2021-11-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://justindavin.github.io/Justin-Portfolio/tags/scene/</loc>
-    <lastmod>2021-11-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://justindavin.github.io/Justin-Portfolio/tags/</loc>
-    <lastmod>2021-11-12T11:14:48-04:00</lastmod>
+    <loc>https://justindavin.github.io/Justin-Portfolio/post/project-3/</loc>
+    <lastmod>2021-10-20T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -56,6 +56,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://justindavin.github.io/Justin-Portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://justindavin.github.io/Justin-Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
